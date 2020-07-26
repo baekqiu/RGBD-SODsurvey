@@ -33,5 +33,13 @@ Contributed by  [*Tao Zhou*](https://taozh2017.github.io), [*Deng-Ping Fan*](htt
 01 | **2019** | **arXiv** | Salient Object Detection in the Deep Learning Era-An In-Depth Survey | [Paper](https://arxiv.org/pdf/1904.09146.pdf)/[Project](https://github.com/wenguanwang/SODsurvey)  
 
 
+------
+
+## RGB-D Models:  <a id="survey" class="anchor" href="#RGBD_models" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+
+**No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
+:-: | :-: | :-: | :-  | :-: 
+01 | **2020** | **BBS-Net** | **ECCV** | BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network | [Paper](http://dpfan.net/wp-content/uploads/ECCV2020_BBS-NetFDP.pdf)/[Project](https://github.com/zyjwuyan/BBS-Net)  
+
 
  
