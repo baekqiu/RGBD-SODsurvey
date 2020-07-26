@@ -16,7 +16,7 @@ Contributed by  [*Tao Zhou*](https://taozh2017.github.io), [*Deng-Ping Fan*](htt
 ## Content:
 
 1. <a href="#survey"> Related Reviews and Surveys to SOD </a>
-2. <a href="#RGBD_models"> RGB-D Models </a>
+2. <a href="#RGBDmodels"> RGB-D Models </a>
 3. <a href="#clinical">  Light Field SOD Models </a>
 4. <a href="#datasets"> RGB-D Datasets </a>
 5. <a href="#evaluation"> Evaluation </a>
@@ -35,7 +35,7 @@ Contributed by  [*Tao Zhou*](https://taozh2017.github.io), [*Deng-Ping Fan*](htt
 
 ------
 
-## RGB-D Models:  <a id="survey" class="anchor" href="#RGBD_models" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+## RGB-D Models:  <a id="RGBDmodels" class="anchor" href="#RGBDmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
