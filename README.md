@@ -7,7 +7,7 @@ RGB-D Salient Object Detection: A Survey
 
 Contributed by  [*Tao Zhou*](https://taozh2017.github.io), [*Deng-Ping Fan*](https://dpfan.net/).
 
---- *Last updated: 2020/07/23* --- 
+--- *Last updated: 2020/07/26* --- 
 
 
 ------
