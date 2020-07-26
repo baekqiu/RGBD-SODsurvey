@@ -7,7 +7,7 @@ RGB-D Salient Object Detection: A Survey
 
 Contributed by  [*Tao Zhou*](https://taozh2017.github.io), [*Deng-Ping Fan*](https://dpfan.net/).
 
---- *Last updated: 2020/07/26* --- 
+--- *Last updated: 2020/07/23* --- 
 
 
 ------
@@ -27,5 +27,11 @@ Contributed by  [*Tao Zhou*](https://taozh2017.github.io), [*Deng-Ping Fan*](htt
 ------
 
 ## Related Reviews and Surveys to SOD:  <a id="survey" class="anchor" href="#survey" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+
+**No.** | **Year** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-: | :-  | :-: 
+01 | **2019** | **arXiv** | Salient Object Detection in the Deep Learning Era-An In-Depth Survey | [Paper](https://arxiv.org/pdf/1904.09146.pdf)/[Project](https://github.com/wenguanwang/SODsurvey)  
+
+
 
  
