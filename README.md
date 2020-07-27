@@ -17,8 +17,8 @@ Contributed by  [*Tao Zhou*](https://taozh2017.github.io), [*Deng-Ping Fan*](htt
 
 1. <a href="#survey"> Related Reviews and Surveys to SOD </a>
 2. <a href="#RGBDmodels"> RGB-D SOD Models </a>
-3. <a href="#clinical">  Light Field SOD Models </a>
-4. <a href="#datasets"> RGB-D Datasets </a>
+3. <a href="#LFmodels">  Light Field SOD Models </a>
+4. <a href="#datasets"> RGB-D SOD Datasets </a>
 5. <a href="#evaluation"> Evaluation </a>
     1. <a href="#technical_CT">  Overall Evaluation: </a>
     1. <a href="#technical_CXR">  Attribute-based Evaluation: </a>
@@ -61,5 +61,22 @@ Contributed by  [*Tao Zhou*](https://taozh2017.github.io), [*Deng-Ping Fan*](htt
 13 | **2020** | **BBS-Net** | **ECCV** | BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network | [Paper](http://dpfan.net/wp-content/uploads/ECCV2020_BBS-NetFDP.pdf)/[Project](https://github.com/zyjwuyan/BBS-Net)  
 14 | **2020** | **BBS-Net** | **ECCV** | BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network | [Paper](http://dpfan.net/wp-content/uploads/ECCV2020_BBS-NetFDP.pdf)/[Project](https://github.com/zyjwuyan/BBS-Net)  
 
+
+------
+
+## Light Field SOD Models:  <a id="LFmodels" class="anchor" href="#LFmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+
+
+
+------
+
+## RGB-D SOD Datasets:  <a id="datasets" class="anchor" href="#datasets" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+
+
+
+
+------
+
+## Evaluation:  <a id="evaluation" class="anchor" href="#evaluation" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
  
