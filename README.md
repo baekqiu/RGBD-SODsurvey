@@ -31,6 +31,7 @@ Contributed by  [*Tao Zhou*](https://taozh2017.github.io), [*Deng-Ping Fan*](htt
 **No.** | **Year** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-: 
 01 | **2019** | **arXiv** |  Salient Object Detection in the Deep Learning Era-An In-Depth Survey | [Paper](https://arxiv.org/pdf/1904.09146.pdf)/[Project](https://github.com/wenguanwang/SODsurvey) 
+01 | **2019** | **arXiv** |  Salient Object Detection in the Deep Learning Era-An In-Depth Survey | [Paper](https://arxiv.org/pdf/1904.09146.pdf)/[Project](https://github.com/wenguanwang/SODsurvey) 
 
 
 ------
@@ -40,6 +41,19 @@ Contributed by  [*Tao Zhou*](https://taozh2017.github.io), [*Deng-Ping Fan*](htt
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
 01 | **2020** | **BBS-Net** | **ECCV** | BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network | [Paper](http://dpfan.net/wp-content/uploads/ECCV2020_BBS-NetFDP.pdf)/[Project](https://github.com/zyjwuyan/BBS-Net)  
+02 | **2020** | **BBS-Net** | **ECCV** | BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network | [Paper](http://dpfan.net/wp-content/uploads/ECCV2020_BBS-NetFDP.pdf)/[Project](https://github.com/zyjwuyan/BBS-Net)  
+03 | **2020** | **BBS-Net** | **ECCV** | BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network | [Paper](http://dpfan.net/wp-content/uploads/ECCV2020_BBS-NetFDP.pdf)/[Project](https://github.com/zyjwuyan/BBS-Net)  
+04 | **2020** | **BBS-Net** | **ECCV** | BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network | [Paper](http://dpfan.net/wp-content/uploads/ECCV2020_BBS-NetFDP.pdf)/[Project](https://github.com/zyjwuyan/BBS-Net)  
+05 | **2020** | **BBS-Net** | **ECCV** | BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network | [Paper](http://dpfan.net/wp-content/uploads/ECCV2020_BBS-NetFDP.pdf)/[Project](https://github.com/zyjwuyan/BBS-Net)  
+06 | **2020** | **BBS-Net** | **ECCV** | BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network | [Paper](http://dpfan.net/wp-content/uploads/ECCV2020_BBS-NetFDP.pdf)/[Project](https://github.com/zyjwuyan/BBS-Net)  
+07 | **2020** | **BBS-Net** | **ECCV** | BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network | [Paper](http://dpfan.net/wp-content/uploads/ECCV2020_BBS-NetFDP.pdf)/[Project](https://github.com/zyjwuyan/BBS-Net)  
+08 | **2020** | **BBS-Net** | **ECCV** | BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network | [Paper](http://dpfan.net/wp-content/uploads/ECCV2020_BBS-NetFDP.pdf)/[Project](https://github.com/zyjwuyan/BBS-Net)  
+09 | **2020** | **BBS-Net** | **ECCV** | BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network | [Paper](http://dpfan.net/wp-content/uploads/ECCV2020_BBS-NetFDP.pdf)/[Project](https://github.com/zyjwuyan/BBS-Net)  
+10 | **2020** | **BBS-Net** | **ECCV** | BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network | [Paper](http://dpfan.net/wp-content/uploads/ECCV2020_BBS-NetFDP.pdf)/[Project](https://github.com/zyjwuyan/BBS-Net)  
+11 | **2020** | **BBS-Net** | **ECCV** | BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network | [Paper](http://dpfan.net/wp-content/uploads/ECCV2020_BBS-NetFDP.pdf)/[Project](https://github.com/zyjwuyan/BBS-Net)  
+12 | **2020** | **BBS-Net** | **ECCV** | BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network | [Paper](http://dpfan.net/wp-content/uploads/ECCV2020_BBS-NetFDP.pdf)/[Project](https://github.com/zyjwuyan/BBS-Net)  
+13 | **2020** | **BBS-Net** | **ECCV** | BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network | [Paper](http://dpfan.net/wp-content/uploads/ECCV2020_BBS-NetFDP.pdf)/[Project](https://github.com/zyjwuyan/BBS-Net)  
+14 | **2020** | **BBS-Net** | **ECCV** | BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network | [Paper](http://dpfan.net/wp-content/uploads/ECCV2020_BBS-NetFDP.pdf)/[Project](https://github.com/zyjwuyan/BBS-Net)  
 
 
  
