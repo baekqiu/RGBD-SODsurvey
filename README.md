@@ -30,7 +30,8 @@ Contributed by  [*Tao Zhou*](https://taozh2017.github.io), [*Deng-Ping Fan*](htt
 
 **No.** | **Year** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-: 
-01 | **2019** | **arXiv** |  Salient Object Detection in the Deep Learning Era-An In-Depth Survey | [Paper](https://arxiv.org/pdf/1904.09146.pdf)/[Project](https://github.com/wenguanwang/SODsurvey) 
+01 | **2015** | **IEEE TIP** |  Salientobject detection:  A benchmark | [Paper](https://arxiv.org/pdf/1501.02741.pdf)/[Project]() 
+
 01 | **2019** | **arXiv** |  Salient Object Detection in the Deep Learning Era-An In-Depth Survey | [Paper](https://arxiv.org/pdf/1904.09146.pdf)/[Project](https://github.com/wenguanwang/SODsurvey) 
 
 
