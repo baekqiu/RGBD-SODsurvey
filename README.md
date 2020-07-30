@@ -171,3 +171,21 @@ A comprehensive evaluation for 24 representative RGB-D based SOD models, includi
 
 ### Attribute-based Evaluation: <a id="Attribute" class="anchor" href="#Attribute" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
+
+
+===========================================================================
+
+Citation:
+
+	@article{zhou2020rgbd,
+  		title={RGB-D Salient Object Detection: A Surveyy},
+  		author={Zhou, Tao and Fan, Deng-Ping and Cheng, Ming-Ming and Shen, Jianbing and Shao, Ling},
+  		journal={arXiv preprint arXiv:****},
+  		year={2019},
+	}
+	
+If you find our dataset is useful, please cite above paper.
+
+===========================================================================
+
+
