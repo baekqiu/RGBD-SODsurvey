@@ -159,7 +159,7 @@ Contributed by  [*Tao Zhou*](https://taozh2017.github.io), [*Deng-Ping Fan*](htt
 
 ### Overall Evaluation: <a id="overallevaluation" class="anchor" href="#overallevaluation" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
-A comprehensive evaluation for 24 representative RGB-D based SOD models, including LHM, ACSD, DESM, GP, LBE, DCMC, SE, CDCP, CDB, DF, PCF, CTMF, CPFP, TANet, AFNet, MMCI, DMRA, D3Net, SSF, A2dele, S2MA, ICNet, JL-DCF, and UC-Net. We obtain the terms of $S_{\alpha}$ and {MAE} values for the 24 models on five datasets (\ie, STERE \cite{niu2012leveraging}, NLPR \cite{peng2014rgbd} , LFSD \cite{li2014saliency}, DES \cite{cheng2014depth}, and SIP \cite{fan2019rethinking}). We report the mean values of $S_{\alpha}$ and {MAE} across the five datasets (\ie, STERE \cite{niu2012leveraging}, NLPR \cite{peng2014rgbd} , LFSD \cite{li2014saliency}, DES \cite{cheng2014depth}, and SIP \cite{fan2019rethinking}) in each model. Note that these better models are shown in the upper left corner (\ie, with a larger $S_{\alpha}$ and smaller MAE)
+A comprehensive evaluation for 24 representative RGB-D based SOD models, including LHM, ACSD, DESM, GP, LBE, DCMC, SE, CDCP, CDB, DF, PCF, CTMF, CPFP, TANet, AFNet, MMCI, DMRA, D3Net, SSF, A2dele, S2MA, ICNet, JL-DCF, and UC-Net. We obtain the terms of $S_{\alpha}$ and {MAE} values for the 24 models on five datasets (\ie, STERE, NLPR, LFSD, DES, and SIP). We report the mean values of $S_{\alpha}$ and {MAE} across the five datasets. Note that these better models are shown in the upper left corner (\ie, with a larger $S_{\alpha}$ and smaller MAE)
 
 
 
