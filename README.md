@@ -166,5 +166,8 @@ A comprehensive evaluation for 24 representative RGB-D based SOD models, includi
 ![alt text](./Fig_overall.jpg)
 
 
+![alt text](./Fig_F_curve.jpg)
+
+
 ### Attribute-based Evaluation: <a id="Attribute" class="anchor" href="#Attribute" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
