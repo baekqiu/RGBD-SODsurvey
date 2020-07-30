@@ -181,7 +181,7 @@ Citation:
   		title={RGB-D Salient Object Detection: A Survey},
   		author={Zhou, Tao and Fan, Deng-Ping and Cheng, Ming-Ming and Shen, Jianbing and Shao, Ling},
   		journal={arXiv preprint arXiv:****},
-  		year={2019},
+  		year={2020},
 	}
 	
 If you find our dataset is useful, please cite above paper.
