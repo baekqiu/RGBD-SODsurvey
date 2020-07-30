@@ -20,8 +20,8 @@ Contributed by  [*Tao Zhou*](https://taozh2017.github.io), [*Deng-Ping Fan*](htt
 3. <a href="#LFmodels">  Light Field SOD Models </a>
 4. <a href="#datasets"> RGB-D SOD Datasets </a>
 5. <a href="#evaluation"> Evaluation </a>
-    1. <a href="#technical_CT">  Overall Evaluation: </a>
-    1. <a href="#technical_CXR">  Attribute-based Evaluation: </a>
+    1. <a href="#overallevaluation">  Overall Evaluation: </a>
+    1. <a href="#Attribute">  Attribute-based Evaluation: </a>
 
 
 ------
@@ -148,7 +148,7 @@ Contributed by  [*Tao Zhou*](https://taozh2017.github.io), [*Deng-Ping Fan*](htt
 
 ------
 
-## RGB-D SOD Datasets:  <a id="datasets" class="anchor" href="#datasets" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+## RGB-D SOD Datasets:  <a id="verallevaluation" class="anchor" href="#verallevaluation" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
 
 
@@ -157,5 +157,14 @@ Contributed by  [*Tao Zhou*](https://taozh2017.github.io), [*Deng-Ping Fan*](htt
 
 ## Evaluation:  <a id="evaluation" class="anchor" href="#evaluation" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
+### Overall Evaluation: <a id="overallevaluation" class="anchor" href="#overallevaluation" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+
+
+
+
+
 ![alt text](./Fig_overall.jpg)
+
+
+### Attribute-based Evaluation: <a id="Attribute" class="anchor" href="#Attribute" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
