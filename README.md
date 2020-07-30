@@ -178,7 +178,7 @@ A comprehensive evaluation for 24 representative RGB-D based SOD models, includi
 Citation:
 
 	@article{zhou2020rgbd,
-  		title={RGB-D Salient Object Detection: A Surveyy},
+  		title={RGB-D Salient Object Detection: A Survey},
   		author={Zhou, Tao and Fan, Deng-Ping and Cheng, Ming-Ming and Shen, Jianbing and Shao, Ling},
   		journal={arXiv preprint arXiv:****},
   		year={2019},
