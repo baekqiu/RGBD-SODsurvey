@@ -159,7 +159,7 @@ Contributed by  [*Tao Zhou*](https://taozh2017.github.io), [*Deng-Ping Fan*](htt
 
 ### Overall Evaluation: <a id="overallevaluation" class="anchor" href="#overallevaluation" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
-
+A comprehensive evaluation for 24 representative RGB-D based SOD models, including LHM \cite{peng2014rgbd}, ACSD \cite{ju2014depth}, DESM \cite{cheng2014depth}, GP \cite{ren2015exploiting}, LBE \cite{feng2016local}, DCMC \cite{cong2016saliency}, SE \cite{guo2016salient}, CDCP \cite{zhu2017innovative}, CDB \cite{liang2018stereoscopic}, DF \cite{qu2017rgbd}, PCF \cite{chen2018progressively}, CTMF \cite{han2017cnns}, CPFP \cite{zhao2019contrast}, TANet \cite{chen2019three}, AFNet \cite{wang2019adaptive}, MMCI \cite{chen2019multi}, DMRA \cite{piao2019depth}, D3Net \cite{fan2019rethinking}, SSF \cite{zhang2020}, A2dele \cite{piao2020}, S2MA \cite{liu2020}, ICNet \cite{li2020icnet}, JL-DCF \cite{fu2020jl}, and UC-Net \cite{zhang2020uc}. We obtain the terms of $S_{\alpha}$ and {MAE} values for the 24 models on five datasets (\ie, STERE \cite{niu2012leveraging}, NLPR \cite{peng2014rgbd} , LFSD \cite{li2014saliency}, DES \cite{cheng2014depth}, and SIP \cite{fan2019rethinking}). We report the mean values of $S_{\alpha}$ and {MAE} across the five datasets (\ie, STERE \cite{niu2012leveraging}, NLPR \cite{peng2014rgbd} , LFSD \cite{li2014saliency}, DES \cite{cheng2014depth}, and SIP \cite{fan2019rethinking}) in each model. Note that these better models are shown in the upper left corner (\ie, with a larger $S_{\alpha}$ and smaller MAE)
 
 
 
