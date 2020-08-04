@@ -31,7 +31,7 @@ Contributed by  [*Tao Zhou*](https://taozh2017.github.io), [*Deng-Ping Fan*](htt
 **No.** | **Year** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-: 
 01 | 2015 | IEEE TIP   |  Salientobject detection: A benchmark | [Paper](https://arxiv.org/pdf/1501.02741.pdf)/Project
-02 | 2018 | IEEE TCSVT |  Review of visual saliency detectionwith comprehensive information | [Paper](https://arxiv.org/pdf/1803.03391.pdf)/Project
+02 | 2018 | IEEE TCSVT |  Review of visual saliency detection with comprehensive information | [Paper](https://arxiv.org/pdf/1803.03391.pdf)/Project
 03 | 2018 | ACM TIST   |  A review of co-saliency detection algorithms: Fundamentals, applications, and challenges | [Paper](https://arxiv.org/pdf/1604.07090.pdf)/Project
 04 | 2018 | IEEE TSP   |  Advanced deep-learning techniques for salient andcategory-specific object detection: A survey| [Paper](https://ieeexplore.ieee.org/document/8253582)/Project
 05 | 2018 | IJCV       |  Attentive systems: A survey | [Paper](https://link.springer.com/article/10.1007/s11263-017-1042-6)/Project
@@ -183,7 +183,7 @@ Citation:
 	@article{zhou2020rgbd,
   		title={RGB-D Salient Object Detection: A Survey},
   		author={Zhou, Tao and Fan, Deng-Ping and Cheng, Ming-Ming and Shen, Jianbing and Shao, Ling},
-  		journal={arXiv preprint arXiv:****},
+  		journal={arXiv preprint arXiv:2008.00230},
   		year={2020},
 	}
 	
