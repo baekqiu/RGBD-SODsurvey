@@ -3,7 +3,7 @@
 ![alt text](./Fig0.jpg)
 
 
-RGB-D Salient Object Detection: A Survey
+[RGB-D Salient Object Detection: A Survey](https://arxiv.org/abs/2008.00230) 
 
 Contributed by  [*Tao Zhou*](https://taozh2017.github.io), [*Deng-Ping Fan*](https://dpfan.net/).
 
